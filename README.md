@@ -1,1 +1,1 @@
-# Insight
+print('Hello world')
