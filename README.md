@@ -28,7 +28,8 @@ the values of cik, acc, ext. I may have missed something when reading the challe
 5. 
 On a large file of 2.5 GB downloaded directly from EDGAR, the code takes around 320 sec to process 23 million entries. I could not add this test on GitHub
 
-6. Packages used.
+6. 
+Packages used.
 datetime (to add and substract time stamps)
 OredredDict from collections, 
 islice from itertools (to partially read the first two lines of the file)
