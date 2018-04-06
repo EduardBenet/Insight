@@ -1,4 +1,4 @@
-Accession,DaTe,Extention,Zone,CIK,Ip,time,code,size,idx,norefer,noagent,find,crawler,browser
+accession,date,extention,zone,cik,ip,time,code,size,idx,norefer,noagent,find,crawler,browser
 0001047469-17-004337,2017-06-30,-index.htm,0,1608552,101.81.133.jja,00:00:00,200,80251,1,0,0,9,0,
 0000898430-02-001167,2017-06-30,-index.htm,0,1027281,107.23.85.jfd,00:00:00,200,2825,1,0,0,10,0,
 0000905148-07-003827,2017-06-30,-index.htm,0,1136894,107.23.85.jfd,00:00:00,200,3021,1,0,0,10,0,
